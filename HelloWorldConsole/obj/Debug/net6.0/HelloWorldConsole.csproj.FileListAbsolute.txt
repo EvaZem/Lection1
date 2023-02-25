@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\bin\Debug\net6.0\HelloWorldConsole.exe
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\bin\Debug\net6.0\HelloWorldConsole.deps.json
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\bin\Debug\net6.0\HelloWorldConsole.runtimeconfig.json
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\bin\Debug\net6.0\HelloWorldConsole.dll
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\bin\Debug\net6.0\HelloWorldConsole.pdb
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\HelloWorldConsole.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\HelloWorldConsole.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\HelloWorldConsole.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\HelloWorldConsole.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\HelloWorldConsole.dll
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\refint\HelloWorldConsole.dll
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\HelloWorldConsole.pdb
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\HelloWorldConsole.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\дата сайнс обучение\Знакомство с C#\Lection1\HelloWorldConsole\obj\Debug\net6.0\ref\HelloWorldConsole.dll
